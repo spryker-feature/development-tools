@@ -10,7 +10,8 @@
     "spryker-sdk/composer-constrainer": "^0.1.0",
     "spryker-shop/web-profiler-widget": "^1.1.0",
     "spryker/code-generator": "^0.3.7",
-    "spryker/development": "^3.21.0"
+    "spryker/development": "^3.21.0",
+    "spryker/web-profiler": "^1.5.0"
   },
   "extra": {
     "branch-alias": {
