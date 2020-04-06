@@ -8,6 +8,7 @@
   "require": {
     "php": ">=7.2",
     "spryker-sdk/composer-constrainer": "^0.2.0",
+    "spryker-sdk/spryk": "^0.2.5",
     "spryker-shop/web-profiler-widget": "^1.1.0",
     "spryker/code-generator": "^0.3.7",
     "spryker/development": "^3.21.0",
@@ -15,7 +16,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202001.x-dev"
+      "dev-master": "202006.x-dev"
     }
   }
 }
