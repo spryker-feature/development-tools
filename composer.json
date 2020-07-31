@@ -7,6 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
+    "spryker-sdk/benchmark": "^0.1.0",
     "spryker-sdk/composer-constrainer": "^0.2.0",
     "spryker-sdk/spryk": "^0.2.5",
     "spryker-sdk/spryk-gui": "^0.1.5",
@@ -17,7 +18,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202006.x-dev"
+      "dev-master": "202008.x-dev"
     }
   }
 }
