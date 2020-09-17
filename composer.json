@@ -10,7 +10,7 @@
     "spryker-sdk/benchmark": "^0.1.0",
     "spryker-sdk/composer-constrainer": "^0.2.0",
     "spryker-sdk/spryk": "^0.2.5",
-    "spryker-sdk/spryk-gui": "^0.1.5",
+    "spryker-sdk/spryk-gui": "^0.1.6",
     "spryker-shop/web-profiler-widget": "^1.4.0",
     "spryker/code-generator": "^0.3.7",
     "spryker/development": "^3.25.0",
