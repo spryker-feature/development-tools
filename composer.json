@@ -13,12 +13,12 @@
         "spryker-sdk/spryk-gui": "^0.2.0",
         "spryker-shop/web-profiler-widget": "^1.4.0",
         "spryker/code-generator": "^0.3.7",
-        "spryker/development": "^3.25.0",
+        "spryker/development": "^3.29.0",
         "spryker/web-profiler": "^1.6.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     }
 }
