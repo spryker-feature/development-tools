@@ -6,19 +6,19 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-sdk/benchmark": "^0.2.0",
         "spryker-sdk/composer-constrainer": "^0.2.0",
         "spryker-sdk/spryk": "^0.3.0",
         "spryker-sdk/spryk-gui": "^0.2.0",
         "spryker-shop/web-profiler-widget": "^1.4.0",
         "spryker/code-generator": "^0.3.7",
-        "spryker/development": "^3.32.0",
+        "spryker/development": "^3.34.0",
         "spryker/web-profiler": "^1.6.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     }
 }
