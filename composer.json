@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker-sdk/benchmark": "^0.2.0",
         "spryker-sdk/composer-constrainer": "^0.2.0",
         "spryker-sdk/spryk": "^0.7.0",
@@ -16,7 +16,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     }
 }
