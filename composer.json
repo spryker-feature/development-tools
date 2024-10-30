@@ -11,7 +11,7 @@
         "spryker-sdk/composer-constrainer": "^0.2.0",
         "spryker-sdk/spryk": "^0.7.0",
         "spryker-shop/web-profiler-widget": "^1.4.0",
-        "spryker/development": "^3.37.0",
+        "spryker/development": "^3.38.0",
         "spryker/web-profiler": "^1.6.0"
     },
     "extra": {
