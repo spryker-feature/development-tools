@@ -12,11 +12,11 @@
         "spryker-sdk/spryk": "^0.7.0",
         "spryker-shop/web-profiler-widget": "^1.8.0",
         "spryker/development": "^3.53.0",
-        "spryker/web-profiler": "^1.11.0"
+        "spryker/web-profiler": "^1.12.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     }
 }
